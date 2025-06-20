@@ -1,4 +1,7 @@
 # Building a Serverless Architecture on AWS: Step-by-Step Guide
+![Image11](https://github.com/user-attachments/assets/24a92b71-af95-4ed8-911c-7392f3205021)
+
+
 
 ## Introduction  
 This guide outlines how to design and deploy a serverless architecture using AWS, enabling scalable and event-driven automation without managing underlying servers.
